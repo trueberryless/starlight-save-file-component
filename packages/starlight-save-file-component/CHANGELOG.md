@@ -1,5 +1,11 @@
 # starlight-save-file-component
 
+## 0.2.1
+
+### Patch Changes
+
+- [#67](https://github.com/trueberryless/starlight-save-file-component/pull/67) [`9b647c8`](https://github.com/trueberryless/starlight-save-file-component/commit/9b647c8011cd1f35c1553507ae0048ffcece758c) Thanks [@trueberryless-bot](https://github.com/trueberryless-bot)! - Updates the repository links after the move from the `trueberryless-org` GitHub organization to the `trueberryless` account.
+
 ## 0.2.0
 
 ### Minor Changes
